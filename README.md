@@ -15,7 +15,7 @@ React JS was used to build the frontend part of the application. JS packages suc
 <b>Deployed Web Application Link: </b>https://agriai-app-a9c34.web.app
 <br/>
 
-<h3><b>About Flask API</b></h3>
+<h3><b>Flask API End Points</b></h3>
 
 1. Crop Recommendation End Point: https://agriculture-api.herokuapp.com/predict_crop
 2. Fertilizer Recommendation End Point: https://agriculture-api.herokuapp.com/predict_fertilizer
