@@ -60,16 +60,21 @@ The data is returned in JSON format:<br/>
 
 ## Tech Stack Used
 
-<img src="./readme_assets/react.png" width="200px" height="200px" />
+<div align="center">
 
-<img src="./readme_assets/firebase.png" width="200px" height="200px" />
+<table>
+    <tr>
+        <td><img src="./readme_assets/react.png" width="200px" height="200px" /></td>
+        <td><img src="./readme_assets/firebase.png" width="200px" height="200px" /></td>
+    </tr>
+    <tr>
+        <td><img src="./readme_assets/flask.png" width="200px" height="200px" /></td>
+        <td><img src="./readme_assets/heroku.jpg" width="200px" height="200px" /></td>
+    </tr>
+</table>
 
-<img src="./readme_assets/flask.png" width="200px" height="200px" />
-
-<img src="./readme_assets/heroku.jpg" width="200px" height="200px" />
-
-<br/>
 <img src="./readme_assets/scikit.png" width="400px" height="200px" />
+</div>
 
 <br/>
 
