@@ -6,7 +6,7 @@
 
 ## About
 
-<b>AgriAI</b> is a machine learning based we application build using React and Flask. AgriAI is used for recommending Crop and Fertilizers based on the soil features. The application used three accuractely predciting models to make the final predictions. The link for the python notebooks containing the implementation for the models are present in the <b>Links</b> section of this Readme.<br/>
+<b>AgriAI</b> is a machine learning based we application build using React and Flask. AgriAI is used for recommending Crop and Fertilizers based on the soil features. The application used three accuractely predciting models to make the final predictions. The link for the python notebooks containing the implementation for the models are present in the <b>All Links</b> section of this Readme.<br/>
 
 An API was built using Flask and was deployed on Heroku. This Flask API is used to get the recommendation made by the machine learning models in JSON format. The input data is sent as a POST request to the API to get the predicted information.<br/>
 
@@ -58,6 +58,16 @@ The data is returned in JSON format:<br/>
 <br/>
 <b>Note:</b> This API can be used in your Web Application or Mobile Application by just sending a POST request with the necessary input data to the above mentioned end points.
 
+## All Links
+
+1. Crop Recommender Notebook Link: https://www.kaggle.com/venugopalkadamba/croprecommendation-eda-visualization-modeling-99
+2. Fertilizer Recommender Notebook Link: https://www.kaggle.com/venugopalkadamba/fertilizersrecommendation-acc-100-eda-upsampling
+3. Crop Dataset Link: https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
+4. Fertilizer Dataset Link: https://www.kaggle.com/gdabhishek/fertilizer-prediction
+5. Deployed Web Application Link: https://agriai-app-a9c34.web.app
+6. Flask API Crop Recommendation End Point: https://agriculture-api.herokuapp.com/predict_crop
+7. Flask API Fertilizer Recommendation End Point: https://agriculture-api.herokuapp.com/predict_fertilizer
+
 ## Tech Stack Used
 
 <div align="center">
@@ -77,6 +87,8 @@ The data is returned in JSON format:<br/>
 </div>
 
 <br/>
+
+## Demo Of Web Application
 
 <div align="center">
 
