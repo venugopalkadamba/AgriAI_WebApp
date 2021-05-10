@@ -90,6 +90,8 @@ The data is returned in JSON format:<br/>
 
 ## Demo Of Web Application
 
+<img src="./readme_assets/lappy_gif.gif" />
+
 <div align="center">
 
 Please do ⭐ this repo if you liked my work.
