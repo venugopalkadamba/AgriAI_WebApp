@@ -105,8 +105,6 @@ python app.py
 3. <a href="https://www.kaggle.com/atharvaingle/crop-recommendation-dataset" target="_blank">Crop Dataset Link</a>
 4. <a href="https://www.kaggle.com/gdabhishek/fertilizer-prediction" target="_blank">Fertilizer Dataset Link</a>
 5. <a href="https://agriai-app-a9c34.web.app" target="_blank">Deployed Web Application Link</a>
-6. <a href="https://agriculture-api.herokuapp.com/predict_crop" target="_blank">Flask API Crop Recommendation End Point</a>
-7. <a href="https://agriculture-api.herokuapp.com/predict_fertilizer" target="_blank">Flask API Fertilizer Recommendation End Point</a>
 
 ## Tech Stack Used
 
