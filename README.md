@@ -60,13 +60,13 @@ The data is returned in JSON format:<br/>
 
 ## <span id="links">All Links</span>
 
-1. Crop Recommender Notebook Link: https://www.kaggle.com/venugopalkadamba/croprecommendation-eda-visualization-modeling-99
-2. Fertilizer Recommender Notebook Link: https://www.kaggle.com/venugopalkadamba/fertilizersrecommendation-acc-100-eda-upsampling
-3. Crop Dataset Link: https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
-4. Fertilizer Dataset Link: https://www.kaggle.com/gdabhishek/fertilizer-prediction
-5. Deployed Web Application Link: https://agriai-app-a9c34.web.app
-6. Flask API Crop Recommendation End Point: https://agriculture-api.herokuapp.com/predict_crop
-7. Flask API Fertilizer Recommendation End Point: https://agriculture-api.herokuapp.com/predict_fertilizer
+1. <a href="https://www.kaggle.com/venugopalkadamba/croprecommendation-eda-visualization-modeling-99" target="_blank">Crop Recommender Notebook Link</a>
+2. <a href="https://www.kaggle.com/venugopalkadamba/fertilizersrecommendation-acc-100-eda-upsampling" target="_blank">Fertilizer Recommender Notebook Link</a>
+3. <a href="https://www.kaggle.com/atharvaingle/crop-recommendation-dataset" target="_blank">Crop Dataset Link</a>
+4. <a href="https://www.kaggle.com/gdabhishek/fertilizer-prediction" target="_blank">Fertilizer Dataset Link</a>
+5. <a href="https://agriai-app-a9c34.web.app" target="_blank">Deployed Web Application Link</a>
+6. <a href="https://agriculture-api.herokuapp.com/predict_crop" target="_blank">Flask API Crop Recommendation End Point</a>
+7. <a href="https://agriculture-api.herokuapp.com/predict_fertilizer" target="_blank">Flask API Fertilizer Recommendation End Point</a>
 
 ## Tech Stack Used
 
