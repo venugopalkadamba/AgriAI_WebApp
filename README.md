@@ -106,6 +106,10 @@ python app.py
 4. <a href="https://www.kaggle.com/gdabhishek/fertilizer-prediction" target="_blank">Fertilizer Dataset Link</a>
 5. <a href="https://agriai-app-a9c34.web.app" target="_blank">Deployed Web Application Link</a>
 
+<br/>
+
+<b>NOTE: </b>Please do support by upvoting the kaggle notebooks if you liked my work.
+
 ## Tech Stack Used
 
 <div align="center">
